@@ -1,0 +1,9 @@
+* 4c2bcb9 (HEAD -> main, origin/main, origin/HEAD) Committing after saving VBA_Script from Explorer intead of through Excel.
+* 0d26a6f Trying to add changes to VBA script.
+* 777e87b Changing VBA code to Get DQ’s Yearly Return for 2018 as per OSU module 2.2.4.
+* e25ea47 Changing VBA Script to total volume for DQ stock in 2018 as perOSU module 2.2.3.
+* 9856b73 Re-writing VBA with Cells() method as per OSU module 2.2.1.
+* b8b9726 VBA added to populate cells using Range() method as per OSU module 2.2.1.
+* a86dd37 Adding Macros Enabled Spreadsheet as per OSU module 2.1.4.
+* 937cfce Adding git ignore file
+* d4c455f Initial commit
