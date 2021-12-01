@@ -229,8 +229,15 @@ End Sub
 
 Sub yearValueAnalysis()
 
+Dim startTime As Single
+Dim endTime  As Single
+
+
 'Get user's input.
 yearValue = InputBox("What year would you like to run the analysis on?")
+
+'Start the timer.
+startTime = Timer
 
 'Format the output sheet on the "All Stocks Analysis" worksheet.
 Worksheets("All Stocks Analysis").Activate
@@ -303,8 +310,10 @@ If Cells(j + 1, 1).Value <> ticker And Cells(j, 1).Value = ticker Then
     Cells(4 + i, 3).Value = endingPrice / startingPrice - 1
     
  Next i
-
-
+ 
+'Stop the timer.
+endTime = Timer
+MsgBox "This code ran in " & (endTime - startTime) & " seconds for the year " & (yearValue)
 
 End Sub
 
