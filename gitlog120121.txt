@@ -1,4 +1,5 @@
-* 03cf785 (HEAD -> main, origin/main, origin/HEAD) Measured code performance using Timer as per OSU module 2.5.3.
+* d52e244 (HEAD -> main, origin/main, origin/HEAD) Adding .txt file of git log.
+* 03cf785 Measured code performance using Timer as per OSU module 2.5.3.
 * b76b502 Modified to take user input as per OSU module 2.5.2.
 * d18535e Added Checkerboard sheet to Excel Workbook as per OSU module 2.4.2.
 * 087e161 OSU Module 2.3.3 - Reuse Code
