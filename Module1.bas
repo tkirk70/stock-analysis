@@ -157,4 +157,62 @@ If Cells(j + 1, 1).Value <> ticker And Cells(j, 1).Value = ticker Then
     
 End Sub
 
+Sub formatAllStocksAnalysisTable()
+
+Worksheets("All Stocks Analysis").Activate
+Range("A3:C3").Font.Bold = True
+
+Range("A3:C3").Font.Color = RGB(0, 125, 255)
+Range("A3:C3").Font.Size = 17
+Range("A3:C3").Font.Name = "Arial"
+Range("B4:B15").NumberFormat = "#,##0"
+Range("C4:C15").NumberFormat = "0.0%"
+Columns("B").AutoFit
+
+    dataRowStart = 4
+    dataRowEnd = 15
+    
+    For i = dataRowStart To dataRowEnd
+
+        If Cells(i, 3) > 0 Then
+
+            'Color the cell green
+            Cells(i, 3).Interior.Color = vbGreen
+
+        ElseIf Cells(i, 3) < 0 Then
+
+            'Color the cell red
+            Cells(i, 3).Interior.Color = vbRed
+
+        Else
+
+            'Clear the cell color
+            Cells(i, 3).Interior.Color = xlNone
+
+        End If
+
+    Next i
+
+Range("A3:C3").Borders(xlEdgeBottom).LineStyle = xlContinuous
+
+End Sub
+
+Sub CreateCheckerboard()
+
+Worksheets("Checkerboard").Activate
+
+For i = 1 To 8
+    For j = 1 To 8
+        If (i + j) Mod 2 = 0 Then
+            Cells(i, j).Interior.Color = vbRed
+        Else
+            Cells(i, j).Interior.Color = vbBlack
+        End If
+    Next j
+
+Next i
+        
+        
+End Sub
+
 
