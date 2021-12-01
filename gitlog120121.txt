@@ -1,0 +1,15 @@
+* 03cf785 (HEAD -> main, origin/main, origin/HEAD) Measured code performance using Timer as per OSU module 2.5.3.
+* b76b502 Modified to take user input as per OSU module 2.5.2.
+* d18535e Added Checkerboard sheet to Excel Workbook as per OSU module 2.4.2.
+* 087e161 OSU Module 2.3.3 - Reuse Code
+* b082cc3 Unintentionlly added .bas file to repository.
+* 808663f Addiing output of git log as .txt file to repository.
+* 4c2bcb9 Committing after saving VBA_Script from Explorer intead of through Excel.
+* 0d26a6f Trying to add changes to VBA script.
+* 777e87b Changing VBA code to Get DQ’s Yearly Return for 2018 as per OSU module 2.2.4.
+* e25ea47 Changing VBA Script to total volume for DQ stock in 2018 as perOSU module 2.2.3.
+* 9856b73 Re-writing VBA with Cells() method as per OSU module 2.2.1.
+* b8b9726 VBA added to populate cells using Range() method as per OSU module 2.2.1.
+* a86dd37 Adding Macros Enabled Spreadsheet as per OSU module 2.1.4.
+* 937cfce Adding git ignore file
+* d4c455f Initial commit
