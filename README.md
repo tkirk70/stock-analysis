@@ -14,11 +14,11 @@
 
 ####    2017: 0.2265625 seconds runtime.
 
-![2017 Refactored](Resources/Original%20VBA_Challenge_2017.PNG)
+![2017 Refactored](Resources/VBA_Challenge_2017.PNG)
 
 ####    2018: 0.140625 seconds runtime.
 
-![2018 Refactored](Resources/Original%20VBA_Challenge_2018.PNG)
+![2018 Refactored](Resources/VBA_Challenge_2018.PNG)
 
 ###   Original Code
 
