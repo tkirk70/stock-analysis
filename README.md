@@ -13,7 +13,12 @@
 ####    The refactored code stored data in arrays before displaying outcomes.
 
 ####    2017: 0.2265625 seconds runtime.
+
+![2017 Refactored](Resources/Original%20VBA_Challenge_2017.PNG)
+
 ####    2018: 0.140625 seconds runtime.
+
+![2018 Refactored](Resources/Original%20VBA_Challenge_2018.PNG)
 
 ###   Original Code
 
@@ -25,6 +30,8 @@
 ![2017 Original](Resources/Original%202017.PNG)
 
 ####    2018: 0.6367188 seconds runtime.
+
+![2018 Original](Resources/Original%202018.PNG)
 
 ## The Summary:
 
