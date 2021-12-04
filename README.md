@@ -5,7 +5,7 @@
 ###   The purpose of the project was to compare runtimes for two VBA codes
 ###   using the same dataset to display the same results.
 
-Click [here](Resources/VBA_Challenge.xlms) to view the Excel Workbook.
+Click [here](Resources/VBA_Challenge.xlsm) to view the Excel Workbook.
 
 #### The datasets (2017 and 2018) included 8 columns and 3013 rows for data from 12 different stocks.
 #### Our task was to analyze Volume and Return for a specific year.
