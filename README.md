@@ -10,7 +10,8 @@ Click [here](/VBA_Challenge.xlsm) to view the Excel Workbook.
 #### The datasets (2017 and 2018) included 8 columns and 3013 rows for data from 12 different stocks.
 #### Our task was to analyze Volume and Return for a specific year.
 #### This was done by writing VBA code to loop through the rows and calculate and display the results for each stock.
-#### After writing the original code to loop through the data 12 times, we refactored the code to loop through once and output the results to arrays.
+#### After writing the original code to loop through the data 12 times,
+#### we refactored the code to loop through once and output the results to arrays.
 #### Below are the results and summary of the findings along with screenshots of the results.
 
 ## The Results:
