@@ -51,4 +51,4 @@ Click [here](/VBA_Challenge.xlsm) to view the Excel Workbook.
 ###   Advantage for the original code:
 ####    Only had to be written once.
 ###   Disadvantage for the original code:
-####    Slower runtimes.
+####    Slower runtimes.  :hourglass_flowing_sand:
