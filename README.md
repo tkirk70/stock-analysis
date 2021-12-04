@@ -44,7 +44,7 @@ Click [here](/VBA_Challenge.xlsm) to view the Excel Workbook.
 ## The Summary:
 
 ###   Advantage for the refactored code:
-####    Faster runtimes.  The 2017 refactored code was 2.71 times faster.  The 2018 refactored code was 4.53 times faster.
+####    Faster runtimes.  :watch: The 2017 refactored code was 2.71 times faster.  The 2018 refactored code was 4.53 times faster.
 ###   Disadvantage for the refactored code:
 ####    Time spent writing code a second time.
 
