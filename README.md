@@ -22,7 +22,7 @@
 
 ####    2017: 0.6132813 seconds runtime.
 
-[2017 Original](Resources/Original%202017.PNG)
+![2017 Original](Resources/Original%202017.PNG)
 
 ####    2018: 0.6367188 seconds runtime.
 
