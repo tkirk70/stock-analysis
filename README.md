@@ -21,6 +21,9 @@
 ####    The original code output data for each ticker before looping through entire dataset again.
 
 ####    2017: 0.6132813 seconds runtime.
+
+Resources/Original%202017.PNG
+
 ####    2018: 0.6367188 seconds runtime.
 
 ## The Summary:
